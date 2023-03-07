@@ -1,6 +1,6 @@
 # BFV-ROBOT-CareerTool
 
-# 一个简单的Battlefield V 生涯、服务器、ROBOT社区查询程序  
+**一个简单的Battlefield V 生涯、服务器、ROBOT社区查询程序**  
 
 ## 【关于CareerTool】  
 * **程序逻辑基于Python，UI基于Python的tkinter库编写——2023年2月4日**  
